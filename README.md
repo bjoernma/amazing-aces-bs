@@ -3,19 +3,17 @@
 ---
 *English:*
 
-*This is the sourcecode of the website at [amazing-aces-bs.de](http://amazing-aces-bs.de). It is a website for a local meetup of people on the asexual spectrum.*
+*This is the sourcecode of the website that will be available at [bremen.amazing-aces.de](http://bremen.amazing-aces.de) soon. It is a website for a local meetup of people on the asexual spectrum.*
 
-*If you're interested in using a similar design for your own website, please look at my personal website [metakiki.net](http://metakiki.net) for reference, because I don't provide documentation in English language for this site here*
+*If you're interested in using a similar design for your own website, please look at my (Kiki's) personal website [metakiki.net](http://metakiki.net) for reference, because I don't provide documentation in English language for this site here*
 
 ---
 
-Dies ist der Quellcode zur Website der Amazing Aces Braunschweig - Stammtisch für Menschen im asexuellen Spektrum.
+Dies ist der Quellcode zur Website der Amazing Aces Bremen - Stammtisch für Menschen im asexuellen Spektrum.
 
-Die Website ist aktuell unter [amazing-aces-bs.de](http://amazing-aces-bs.de) und [braunschweig.amazing-aces.de](http://braunschweig.amazing-aces.de) erreichbar.
+Die Website ist noch im Aufbau, und demnächst unter [bremen.amazing-aces.de](http://bremen.amazing-aces.de) erreichbar.
 
-Wer Interesse daran hat, für eine asexuelle Community einer anderen Stadt ebenfalls einen Amazing-Aces-Stammtisch zu gründen, kann mich gerne kontaktieren und nach Absprache eine Website etc. im gleichen Design erstellen - dafür kann dann ein Fork von diesem Repository erstellt werden und ich kann eine Subdomain mit *stadtname.amazing-aces.de* für euch einrichten. :)
-
-Für eine weitere Stadt ist aktuell (Ende 2019) bereits ein solches Projekt in Arbeit, was mich sehr freut!
+Wer Interesse daran hat, für eine asexuelle Community einer anderen Stadt ebenfalls einen Amazing-Aces-Stammtisch zu gründen, kann mich (Kiki) gerne kontaktieren und nach Absprache eine Website etc. im gleichen Design erstellen - dafür kann dann ein Fork von diesem Repository erstellt werden und ich kann eine Subdomain mit *stadtname.amazing-aces.de* für euch einrichten. :)
 
 Die Website ist komplett statisch, kommt also ohne Browser-seitige Skripte aus.
 
