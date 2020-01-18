@@ -1,6 +1,6 @@
 ---
 title: Fehler 404 - Seite nicht gefunden
-subtitle: Amazing Aces Brauschweig
+subtitle: Amazing Aces Bremen
 nometa: true
 ---
 
