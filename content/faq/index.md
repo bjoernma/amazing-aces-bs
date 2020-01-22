@@ -54,7 +54,7 @@ Beim Stammtisch sind wir bisher oft eher eine kleine Gruppe von bis zu 15 Leuten
 
 ##<a name="diegleichenleute"></a>Sind immer die gleichen Leute da?
 
-Normalerweise ist immer mindestens eine*r von uns Organisator*innen da, meistens beide - ansonsten gibt es ein paar Menschen, die oft da sind, aber nicht jedes Mal. Und einige, die eher selten da sind, oder auch nur einmal da waren. Wir freuen uns immer über neue Teilnehmer*innen.
+Normalerweise ist immer mindestens eine\*r von uns Organisator\*innen da, meistens beide - ansonsten gibt es ein paar Menschen, die oft da sind, aber nicht jedes Mal. Und einige, die eher selten da sind, oder auch nur einmal da waren. Wir freuen uns immer über neue Teilnehmer\*innen.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
@@ -64,8 +64,8 @@ Da gibt es mehrere Möglichkeiten:
 
 <!-- - Zu jedem Stammtisch-Termin erstellen wir auch eine Veranstaltung auf [Facebook](https://facebook.com/AmazingAcesBS). Dort kannst du dich als Teilnehmer\*in oder als Interessiert eintragen und mit anderen Teilnehmer\*innen interagieren. Es sind aber nicht alle Leute, die zu unserem Stammtisch kommen, auch bei Facebook aktiv.-->
 <!-- - Du kannst uns auf [Twitter](https://twitter.com/AmazingAcesBS) folgen. Auch da veröffentlichen wir zu jedem Termin einen Ankündigungstweet und du kannst dort kommentieren oder uns in deinem Tweet erwähnen, um andere Teilnehmer\*innen zu finden.--> 
-- Wenn du eine konkrete Frage hast, kannst du uns Organisator*innen auch eine [E-mail](/kontakt/) schreiben - wir können die Frage ggf. auch per E-mail an die Leute weiterleiten, die unsere Termin-Erinnerungen und Nachrichten abonniert haben.
-- Wir haben eine Gruppe bei **Whatsapp**, in der sich Teilnehmer\*innen und Interessierte online austauschen können. Wenn ihr in diese Gruppe rein möchtet (oder wenn ihr Interesse daran hättet, eine Gruppe auf einem anderen Messenger zu nutzen), [sagt uns Bescheid](/kontakt/)!
+- Wenn du eine konkrete Frage hast, kannst du uns Organisator\*innen auch eine [E-mail](/kontakt/) schreiben - wir können die Frage ggf. auch per E-mail an die Leute weiterleiten, die unsere Termin-Erinnerungen und Nachrichten abonniert haben.
+- Wir haben eine Gruppe bei **Signal**, in der sich Teilnehmer\*innen und Interessierte online austauschen können. Wenn ihr in diese Gruppe rein möchtet (oder wenn ihr Interesse daran hättet, eine Gruppe auf einem anderen Messenger zu nutzen), [sagt uns Bescheid](/kontakt/)!
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
@@ -110,7 +110,7 @@ Das ist so allgemein schwierig zu beantworten. In erster Linie ist der Stammtisc
 
 Wir treffen uns in den ungeraden Monaten im Dachgeschosszimmer des [Rat&Tat-Zentrums](https://www.ratundtat-bremen.de/) im Viertel in Bremen, Theodor-Körner-Straße 1. Der Raum ist im dritten Obergeschoss (es gibt leider keinen Aufzug). 
 
-Dort gibt es gemütliche Sitzgelegenheiten und wir sind ab 20 Uhr ungestört. Vorher hat die Bibliothek geöffnet - wenn ihr schon früher da sein möchtet, könnt ihr euch also schonmal umschauen und es euch gemütlich machen.
+Dort gibt es gemütliche Sitzgelegenheiten und wir sind die ganze Zeit über ungestört. 
 
 Für die geraden Monate suchen wir zur Zeit noch nach einem regelmäßigen Treffpunkt, er wird aber vorher bekanntgegeben und ist barrierefrei. Wenn ihr da spezielle Fragen oder Wünsche habt, [schreibt](/kontakt/) uns.
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
@@ -123,7 +123,9 @@ Essen und Getränke dürft ihr euch gerne selbst mitbringen, wenn ihr mögt. Bri
 
 ##<a name="rollstuhl"></a>Ist der Zugang zum Stammtisch rollstuhlgerecht?
 
-Derzeit leider nur alle zwei Monate in den geraden Monaten, da der Raum im Rat&Tat im Dachgeschoss liegt und das Gebäude keinen Aufzug hat. Das tut uns sehr leid und wir sind offen für Vorschläge, welchen anderen Raum wir für den Stammtisch nutzen könnten, der in dieser Hinsicht besser ist.
+In den geraden Monaten sind die Räumlichkeiten barrierefrei, dafür sind wir gerade auf einem guten Weg, regelmäßige Räumlichkeiten zu organisieren. In ungeraden Monaten ist der Raum jedoch nicht barrierefrei, da das Treffen dann im Rat&Tat Zentrum für queeres Leben stattfindet.
+
+Derzeit leider nur alle zwei Monate in den geraden Monaten, da der Raum im Rat&Tat im Dachgeschoss liegt und das Gebäude keinen Aufzug hat. Das tut uns sehr leid.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
