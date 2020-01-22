@@ -20,9 +20,7 @@ twitter: false
 Du bist asexuell, demisexuell, oder gray-ace?
 Oder du bist dir noch nicht ganz sicher, aber möchtest dich einfach gerne mit anderen Menschen des asexuellen Spektrums treffen und gemeinsam über eure Erfahrungen mit einer Welt sprechen, in der Asexualität noch viel zu oft unsichtbar gemacht wird?
 Dann komm vorbei und lasst uns eine große Community werden!
-
-Geplant ist ein Treffen für alle Menschen, welche sich selber im a\*sexuellen Spektrum sehen und welches auch für jene offen ist, die sich
-da noch nicht ganz sicher sind. Es ist ein Raum, der einlädt, einander zu 
+Wir wollen bei dem Treffen einen Raum bieten, der einlädt, einander zu 
 begegnen, sich auszutauschen, oder auch einfach nur beieinanderzusitzen, 
 zu quatschen und gemeinsam zu lachen.
 
