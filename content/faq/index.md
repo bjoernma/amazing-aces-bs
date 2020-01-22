@@ -1,6 +1,6 @@
 ---
 title: Häufig gestellte Fragen
-subtitle: Amazing Aces Bremen
+subtitle: Amazing Aces — Nord Aces
 nometa: true
 menu: Häufige Fragen
 thumbnail: ../assets/images/amazing-aces-logo.png
@@ -29,7 +29,7 @@ Wir sind eine Community für Menschen in Bremen und umzu, die sich im [asexuelle
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
-##<a name="warum"></a>Warum gibt es die Amazing Aces?
+##<a name="warum"></a>Warum gibt es die Amazing Aces — Nord Aces?
 
 Asexualität ist in unserer Kultur oft unsichtbar. Viele Asexuelle denken, sie seien die Einzigen, denen es so geht, und fürchten, dass etwas mit ihnen nicht in Ordnung sei. Erfahrungsaustausch mit anderen Asexuellen ist hilfreich, um zu erkennen, dass Asexualität häufiger ist als vermutet und genauso in Ordnung ist, wie alle anderen sexuellen Orientierungen auch.
 

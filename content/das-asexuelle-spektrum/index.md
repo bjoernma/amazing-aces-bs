@@ -121,7 +121,7 @@ Die asexuelle Community bemüht sich deshalb vor allem darum, mehr Sichtbarkeit 
 Im Laufe der letzten Jahre hat sich eine große Community rund um das asexuelle Spektrum (im englischen auch oft mit der Kurzform *"ace"* bezeichnet) gebildet. 
 
 Viel von dieser Vernetzung funktioniert über das Internet, z.B. über diverse Blogs, Gruppen auf sozialen Netzwerken, und über das Forum des [Asexual Visibility and Education Network](https://asexuality.org/) (AVEN), der größten internationalen Organisation, die sich für asexuelle Belange einsetzt.  
-Mittlerweile gibt es in vielen Ländern auch weitere asexuelle Organisationen, die Informationen in der jeweiligen Sprache verbreiten und lokale Treffen organisieren. In Deutschland gibt es z.B. [AktivistA](https://aktivista.net/) und einige lokale Ace-Stammtische in queeren Zentren oder anderswo - wie wir **Amazing Aces** in Braunschweig.
+Mittlerweile gibt es in vielen Ländern auch weitere asexuelle Organisationen, die Informationen in der jeweiligen Sprache verbreiten und lokale Treffen organisieren. In Deutschland gibt es z.B. [AktivistA](https://aktivista.net/) und einige lokale Ace-Stammtische in queeren Zentren oder anderswo - wie wir **Amazing Aces — Nord Aces** in Bremen und die **Amazing Aces** in Braunschweig.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 

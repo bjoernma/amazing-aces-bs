@@ -1,5 +1,5 @@
 ---
-title: "Amazing Nord-Aces Stammtisch im März 2020"
+title: "Amazing Aces — Nord Aces: Stammtisch im Februar 2020"
 subtitle: Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 tags: Veranstaltung
 published: 2020-01-18
