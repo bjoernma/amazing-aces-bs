@@ -65,7 +65,7 @@ Da gibt es mehrere Möglichkeiten:
 <!-- - Zu jedem Stammtisch-Termin erstellen wir auch eine Veranstaltung auf [Facebook](https://facebook.com/AmazingAcesBS). Dort kannst du dich als Teilnehmer\*in oder als Interessiert eintragen und mit anderen Teilnehmer\*innen interagieren. Es sind aber nicht alle Leute, die zu unserem Stammtisch kommen, auch bei Facebook aktiv.-->
 <!-- - Du kannst uns auf [Twitter](https://twitter.com/AmazingAcesBS) folgen. Auch da veröffentlichen wir zu jedem Termin einen Ankündigungstweet und du kannst dort kommentieren oder uns in deinem Tweet erwähnen, um andere Teilnehmer\*innen zu finden.--> 
 - Wenn du eine konkrete Frage hast, kannst du uns Organisator\*innen auch eine [E-mail](/kontakt/) schreiben - wir können die Frage ggf. auch per E-mail an die Leute weiterleiten, die unsere Termin-Erinnerungen und Nachrichten abonniert haben.
-- Wir haben eine Gruppe bei **Signal**, in der sich Teilnehmer\*innen und Interessierte online austauschen können. Wenn ihr in diese Gruppe rein möchtet (oder wenn ihr Interesse daran hättet, eine Gruppe auf einem anderen Messenger zu nutzen), [sagt uns Bescheid](/kontakt/)!
+- Eine Gruppe auf **Signal** oder **Telegram** wäre zusätzlich auch denkbar, in der sich Teilnehmer\*innen und Interessierte online austauschen können (bisher gibt es die noch nicht).
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
@@ -134,7 +134,7 @@ Derzeit leider nur alle zwei Monate in den geraden Monaten, da der Raum im Rat&T
 Üblicherweise am dritten Freitag des Monats um 19 Uhr. Die [aktuellen Termine](/termine/) findet ihr auch immer hier auf der Website, falls sich mal etwas ändert oder das Treffen z.B. wegen eines Feiertags ausfällt oder an einem anderen Ort stattfindet.  
 Wenn du an die Termine erinnert werden möchtest, gib uns gerne deine E-mail-Adresse. Wir schicken immer ein paar Tage vor dem nächsten Termin eine Erinnerungsmail an alle, die das möchten.
 
-Falls dir der Termin am Freitagabend generell nicht passt, aber du eigentlich gerne dabei sein möchtest, dann freuen wir uns über eine [Rückmeldung](/kontakt/) dazu - falls viele Leute lieber einen anderen Termin hätten, können wir dann überlegen, wann ein besserer Zeitpunkt wäre.
+Falls dir der Termin am Freitagabend generell nicht passt, aber du eigentlich gerne dabei sein möchtest, dann freuen wir uns über eine [Rückmeldung](/kontakt/) dazu.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
