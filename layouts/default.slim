@@ -4,11 +4,11 @@ html lang=lang_for(@item)
     meta charset="utf-8"
     title
       - if @item.path != "/" and @item[:title]
-        = @item[:title]+" - Amazing Aces Braunschweig"
+        = @item[:title]+" - Amazing Aces — Nord Aces Bremen"
       - else
-        | Amazing Aces - Braunschweiger Stammtisch für Menschen im asexuellen Spektrum
+        | Amazing Aces - Bremer Stammtisch für Menschen im asexuellen Spektrum
 
-    meta name="author" content="Kirstin Rohwer"
+    meta name="author" content="Bj&ouml;rn"
 
     - if @item[:published]
       meta name="date" content=@item[:published].strftime("%Y-%m-%d")
@@ -16,10 +16,10 @@ html lang=lang_for(@item)
     meta name="description" content=abstract_for(@item)
 
     meta name="twitter:card" content="summary_large_image"
-    meta name="twitter:site" content="@AmazingAcesBS"
+    meta name="twitter:site" content="@aces_hb"
     meta name="twitter:title" content=@item[:title]
     meta name="twitter:description" content=abstract_for(@item)
-    meta name="twitter:creator" content="@AmazingAcesBS"
+    meta name="twitter:creator" content="@aces_hb"
     meta name="twitter:image" content=domain[0..-2]+thumbnail_for(@item)
 
     meta property="og:title" content=@item[:title]

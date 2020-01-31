@@ -8,25 +8,29 @@ nometa: true
 eventdate: 2020-02-21
 eventname: "Ace-Stammtisch Februar 2020"
 eventtype: "Stammtisch"
-eventdetail: "um 19:00 Uhr in den Räumen der jungen Selbsthilfe"
+eventdetail: "um 19:30 Uhr in den Räumen der jungen Selbsthilfe"
 facebook: false
 twitter: false
 ---
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 
-### Fr, 20.03.2020 um 19:00 Uhr in den Räumen der jungen Selbsthilfe
+### Fr, 21.02.2020 um 19:30 Uhr in den Räumen der jungen Selbsthilfe
 
-Adresse:
+Adresse: Junge Selbsthilfe (Erdgeschoss, barrierefrei)
+Faulenstraße 31, Bremen
 
-Du bist asexuell, demisexuell, oder gray-ace?
-Oder du bist dir noch nicht ganz sicher, aber möchtest dich einfach gerne mit anderen Menschen des asexuellen Spektrums treffen und gemeinsam über eure Erfahrungen mit einer Welt sprechen, in der Asexualität noch viel zu oft unsichtbar gemacht wird?
-Dann komm vorbei und lasst uns eine große Community werden! 
-Wir wollen bei dem Treffen einen Raum bieten, der einlädt, einander zu 
+Der Ace-Stammtisch wird dort an jedem dritten 
+Freitag im geraden Monat um 19:30 Uhr stattfinden. 
+
+Geplant ist ein Treffen für alle Menschen, welche sich selber im
+a\*sexuellen Spektrum sehen und welches auch für jene offen ist, die sich
+da noch nicht ganz sicher sind. Es ist ein Raum, der einlädt, einander zu 
 begegnen, sich auszutauschen, oder auch einfach nur beieinanderzusitzen, 
 zu quatschen und gemeinsam zu lachen.
 
 Organisatorisches: 
+
 Wenn ihr mögt, bringt euch gerne Getränke und Snacks mit oder andere Dinge, die dazu
 beitragen, den Raum gemütlich zu gestalten und die dafür sorgen, dass es euch
 gut geht. Denkt ggf. an eigene Becher, da wir vor Ort kein Geschirr zur
@@ -34,6 +38,6 @@ Verfügung haben und wir den Raum auch wieder sauber und ordentlich
 hinterlassen sollten. Ich freue mich auf euer Interesse und darauf,
 einen angenehmen Abend mit euch zu verbringen! 
 
-Der Raum ist leider nicht barrierefrei. Wir planen immer in den geraden Monaten einen 
-barrierefreien Raum zu organisieren. Falls ihr noch spezielle Fragen oder Wünsche habt, 
+Der Raum befindet sich im Erdgeschoss und ist barrierefrei. Falls ihr noch spezielle Fragen oder Wünsche habt, 
 kontaktiert uns bitte.
+

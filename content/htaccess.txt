@@ -1,1 +1,6 @@
 ErrorDocument 404 /404/
+AuthType Basic
+AuthName "Unveröffentlichte Version"
+AuthUserFile .htusers
+Require User nordaces
+

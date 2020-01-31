@@ -6,11 +6,11 @@ nometa: true
 Bei Fragen erreicht ihr uns am besten per E-mail oder auf Twitter. <!-- Auf Facebook könnt ihr an unseren Veranstaltungen teilnehmen.-->
 
 **E-mail:** <span>ur<span title="ihate@spam.com</span>">sus</span>-acehb</span>&#64;capella.uberspace.de<i title="</i>mailto:">.</i>de  
- **Twitter:** [@AmazingAces](https://twitter.com/aceshb)  
-<!-- **Facebook:** [Amazing Aces BS](https://facebook.com/AmazingAcesBS)  
+**Twitter:** [@aces_hb](https://twitter.com/aces_hb)  
+<!-- **Facebook:** [Amazing Aces BS](https://facebook.com/AmazingAcesBS)  -->
 
-Außerdem haben wir eine **Whatsapp-Gruppe**, in der wir uns auch außerhalb von Veranstaltungen unterhalten können. Wer in die Gruppe rein möchte: schickt uns eure Handynummer per e-mail oder sprecht uns beim Stammtisch darauf an.
--->
+<!-- Außerdem haben wir eine **Whatsapp-Gruppe**, in der wir uns auch außerhalb von Veranstaltungen unterhalten können. Wer in die Gruppe rein möchte: schickt uns eure Handynummer per e-mail oder sprecht uns beim Stammtisch darauf an.-->
+
 ## Impressum
 
 **Postanschrift der Verantwortlichen für diese Website:**

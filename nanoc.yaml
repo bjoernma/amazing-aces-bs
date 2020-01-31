@@ -15,7 +15,7 @@ deploy:
   default:
     kind: rsync
 #commented out the next line for safety until i have a webspace for this site
-#    dst: "bremen.amazing-aces.de:/var/www/virtual/nordaces/html"
+#    dst: "bremen.amazing-aces.de:/var/www/virtual/nordaces/html/hidden"
 #    dst: "nordaces.barnard.uberspace.de:/var/www/virtual/nordaces/html"
     options: [
       '--partial',

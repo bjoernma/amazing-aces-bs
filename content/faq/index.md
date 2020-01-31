@@ -29,7 +29,7 @@ Wir sind eine Community für Menschen in Bremen und umzu, die sich im [asexuelle
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
-##<a name="warum"></a>Warum gibt es die Amazing Aces — Nord Aces?
+##<a name="warum"></a>Warum gibt es die Nord Aces?
 
 Asexualität ist in unserer Kultur oft unsichtbar. Viele Asexuelle denken, sie seien die Einzigen, denen es so geht, und fürchten, dass etwas mit ihnen nicht in Ordnung sei. Erfahrungsaustausch mit anderen Asexuellen ist hilfreich, um zu erkennen, dass Asexualität häufiger ist als vermutet und genauso in Ordnung ist, wie alle anderen sexuellen Orientierungen auch.
 
@@ -77,7 +77,7 @@ Wenn jemand ein bestimmtes Thema vorschlägt (manchmal schicken wir auch Themenv
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
-<!-- ##<a name="thema"></a>Redet ihr nur über Asexualität?
+##<a name="thema"></a>Redet ihr nur über Asexualität?
 
 Häufig reden wir über Themen, die mit Asexualität zu tun haben. 
 Z. B. erzählen wir von unseren Coming-out-Erfahrungen oder unterhalten uns über Bücher, in denen Asexualität vorkommt, etc.  
@@ -88,15 +88,15 @@ Welche Gesprächsthemen es an einem bestimmten Abend gibt, hängt davon ab, was 
 
 ##<a name="wassonst"></a>Was macht ihr sonst noch, außer Reden?
 
-Wir haben Tassen und einen Wasserkocher vor Ort und trinken oft Tee. Manchmal bringt auch jemand etwas zu essen mit. Ansonsten ist der Stammtisch schon hauptsächlich zum Reden gedacht. 
+Wir bringen uns meistens was zum Knabbern mit. Ansonsten ist der Stammtisch aber schon hauptsächlich zum Reden gedacht. 
 
 Wir könnten uns auch vorstellen, andere Sachen zu machen, wie z.B. zusammen einen Film gucken, Brettspiele spielen, Demo-Schilder für den CSD basteln, oder was auch immer euch so einfällt - allerdings würden wir das vorher ankündigen und ggf. einen extra-Termin dafür suchen, damit der eigentliche Stammtisch einfach eine Gesprächsrunde bleiben darf.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
--->
+
 ##<a name="nichtsicher"></a>Ich bin mir nicht sicher, ob ich ins asexuelle Spektrum passe. Darf ich trotzdem dabei sein?
 
-Ja, auch wenn du dir nicht sicher bist, bist du bei uns herzlich willkommen - vielleicht hilft der Austausch mit anderen Aces ja sogar dabei, etwas über dich selbst zu lernen.
+Ja, auch wenn du dir nicht sicher bist, bist du bei uns herzlich willkommen — vielleicht hilft der Austausch mit anderen Aces ja sogar dabei, etwas über dich selbst zu lernen.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
@@ -109,10 +109,11 @@ Das ist so allgemein schwierig zu beantworten. In erster Linie ist der Stammtisc
 ##<a name="wo"></a>Wo findet das Treffen statt?
 
 Wir treffen uns in den ungeraden Monaten im Dachgeschosszimmer des [Rat&Tat-Zentrums](https://www.ratundtat-bremen.de/) im Viertel in Bremen, Theodor-Körner-Straße 1. Der Raum ist im dritten Obergeschoss (es gibt leider keinen Aufzug). 
+Für die geraden Monate treffen wir uns bei der [jungen Selbsthilfe](https://www.netzwerk-selbsthilfe.com/selbsthilfe-aktiv-in-bremen/junge-selbsthilfe.html) in Bremen, Faulenstraße 31. Der Raum ist dort barrierefrei zugänglich.
 
 Dort gibt es gemütliche Sitzgelegenheiten und wir sind die ganze Zeit über ungestört. 
 
-Für die geraden Monate suchen wir zur Zeit noch nach einem regelmäßigen Treffpunkt, er wird aber vorher bekanntgegeben und ist barrierefrei. Wenn ihr da spezielle Fragen oder Wünsche habt, [schreibt](/kontakt/) uns.
+Wenn ihr da spezielle Fragen oder Wünsche habt, [schreibt](/kontakt/) uns.
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
 ##<a name="essen"></a>Muss ich da etwas zu essen oder trinken kaufen?
@@ -123,9 +124,9 @@ Essen und Getränke dürft ihr euch gerne selbst mitbringen, wenn ihr mögt. Bri
 
 ##<a name="rollstuhl"></a>Ist der Zugang zum Stammtisch rollstuhlgerecht?
 
-In den geraden Monaten sind die Räumlichkeiten barrierefrei, dafür sind wir gerade auf einem guten Weg, regelmäßige Räumlichkeiten zu organisieren. In ungeraden Monaten ist der Raum jedoch nicht barrierefrei, da das Treffen dann im Rat&Tat Zentrum für queeres Leben stattfindet.
+Derzeit leider nur alle zwei Monate in den geraden Monaten, da der Raum im Rat&Tat im Dachgeschoss liegt und das Gebäude keinen Aufzug hat. Das tut uns sehr leid:
 
-Derzeit leider nur alle zwei Monate in den geraden Monaten, da der Raum im Rat&Tat im Dachgeschoss liegt und das Gebäude keinen Aufzug hat. Das tut uns sehr leid.
+In den geraden Monaten sind die Räumlichkeiten barrierefrei. In den ungeraden Monaten (Januar/März/Mai/Juli/September/November) ist der Raum jedoch nicht barrierefrei, da das Treffen dann im Rat&Tat Zentrum für queeres Leben stattfindet.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
